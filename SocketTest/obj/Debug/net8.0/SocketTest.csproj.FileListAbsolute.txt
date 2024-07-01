@@ -1,0 +1,14 @@
+/Users/moxixuan/Code/SocketTest/SocketTest/bin/Debug/net8.0/SocketTest
+/Users/moxixuan/Code/SocketTest/SocketTest/bin/Debug/net8.0/SocketTest.deps.json
+/Users/moxixuan/Code/SocketTest/SocketTest/bin/Debug/net8.0/SocketTest.runtimeconfig.json
+/Users/moxixuan/Code/SocketTest/SocketTest/bin/Debug/net8.0/SocketTest.dll
+/Users/moxixuan/Code/SocketTest/SocketTest/bin/Debug/net8.0/SocketTest.pdb
+/Users/moxixuan/Code/SocketTest/SocketTest/obj/Debug/net8.0/SocketTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moxixuan/Code/SocketTest/SocketTest/obj/Debug/net8.0/SocketTest.AssemblyInfoInputs.cache
+/Users/moxixuan/Code/SocketTest/SocketTest/obj/Debug/net8.0/SocketTest.AssemblyInfo.cs
+/Users/moxixuan/Code/SocketTest/SocketTest/obj/Debug/net8.0/SocketTest.csproj.CoreCompileInputs.cache
+/Users/moxixuan/Code/SocketTest/SocketTest/obj/Debug/net8.0/SocketTest.dll
+/Users/moxixuan/Code/SocketTest/SocketTest/obj/Debug/net8.0/refint/SocketTest.dll
+/Users/moxixuan/Code/SocketTest/SocketTest/obj/Debug/net8.0/SocketTest.pdb
+/Users/moxixuan/Code/SocketTest/SocketTest/obj/Debug/net8.0/SocketTest.genruntimeconfig.cache
+/Users/moxixuan/Code/SocketTest/SocketTest/obj/Debug/net8.0/ref/SocketTest.dll
